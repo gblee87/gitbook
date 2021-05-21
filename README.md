@@ -1,25 +1,18 @@
 # welcome page
 
-## Getting Super Powers
+## About this
 
-Becoming a super hero is a fairly straight forward process:
+개인적으로 궁금했던 내용들을 정리하기 위해 이 페이지를 시작했습니다.
 
-```
-$ give me super-powers
-```
+다양한 기술을 망라하고 정리할 예정입니다.
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% hint style="warning" %}
+ 주로 클라우드에 관한 내용을 정리하게 될 것 같아요~
 {% endhint %}
 
-Once you're strong enough, save the world:
+## About me \(작성중\)
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+
 
 
 
